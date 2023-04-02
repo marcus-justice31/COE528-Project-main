@@ -1,0 +1,6 @@
+textbook
+1200.4
+book2
+100.0
+book3
+200.0
